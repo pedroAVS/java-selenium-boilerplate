@@ -1,0 +1,5 @@
+io/mb/oneweb/java/selenium/framework/pages/BasePage.class
+io/mb/oneweb/java/selenium/framework/Application.class
+io/mb/oneweb/java/selenium/framework/steps/BaseSteps.class
+io/mb/oneweb/java/selenium/framework/pages/HomePage.class
+io/mb/oneweb/java/selenium/framework/steps/OpenPageSteps.class

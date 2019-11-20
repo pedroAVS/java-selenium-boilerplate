@@ -1,0 +1,3 @@
+zalenium:
+  grid:
+    url: https://zalenium.cicd.intra.oneweb.mercedes-benz.io/wd/hub

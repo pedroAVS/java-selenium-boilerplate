@@ -1,0 +1,16 @@
+mb:
+  io:
+    url: https://test.assets.oneweb.mercedes-benz.com/plugin/vmos/index.html?country=DE&language=de&view=BODYTYPE&subgroup=see-all
+    api:
+      endpoint:
+        jobs: wp-json/wp/v2/job
+zalenium:
+  grid:
+    url: http://localhost:4444/wd/hub
+    browser: ${grid.browser}
+    viewport: ${grid.viewport}
+galen:
+  component:
+    homePage: layoutSpecs/homePage.gspec
+  report:
+    path: target

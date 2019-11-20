@@ -1,0 +1,9 @@
+#Declaring objects with css and xpath locators
+@objects
+  homeButton   xpath    //*[@id="menu-item-629"]/a
+
+= Main section =
+    @on desktop
+        homeButton:
+            css font-family is "DaimlerCS, sans-serif"
+

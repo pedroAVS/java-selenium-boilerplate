@@ -1,0 +1,13 @@
+io/mb/oneweb/java/selenium/framework/api/Jobs.class
+io/mb/oneweb/java/selenium/framework/_infra/ZaleniumRule.class
+io/mb/oneweb/java/selenium/framework/cucumber/steps/OpenPageValidate.class
+io/mb/oneweb/java/selenium/framework/_infra/ViewPort.class
+io/mb/oneweb/java/selenium/framework/flows/JobsPageTest.class
+io/mb/oneweb/java/selenium/framework/cucumber/CucumberTest.class
+io/mb/oneweb/java/selenium/framework/cucumber/steps/DisplayOnPage.class
+io/mb/oneweb/java/selenium/framework/PropertiesTest.class
+io/mb/oneweb/java/selenium/framework/_infra/LayoutRule.class
+io/mb/oneweb/java/selenium/framework/_infra/CapabilitiesFactory.class
+io/mb/oneweb/java/selenium/framework/cucumber/SpringTest.class
+io/mb/oneweb/java/selenium/framework/layout/HomePageTest.class
+io/mb/oneweb/java/selenium/framework/_infra/Browser.class
