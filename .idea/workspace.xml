@@ -1,26 +1,323 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e8d93ee-9103-459d-a7c8-abb6e3edadea" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9e8d93ee-9103-459d-a7c8-abb6e3edadea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/CucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/mb/oneweb/java/selenium/framework/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/cucumber/framework/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/mb/oneweb/java/selenium/framework/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/cucumber/framework/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/mb/oneweb/java/selenium/framework/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/cucumber/framework/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/mb/oneweb/java/selenium/framework/steps/BaseSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/cucumber/framework/steps/BaseSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/mb/oneweb/java/selenium/framework/steps/OpenPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/cucumber/framework/steps/OpenPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/PropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/PropertiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/_infra/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/_infra/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/_infra/CapabilitiesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/_infra/CapabilitiesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/_infra/LayoutRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/_infra/ViewPort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/_infra/ViewPort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/_infra/ZaleniumRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/_infra/ZaleniumRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/api/Jobs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/cucumber/CucumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/cucumber/SpringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/cucumber/steps/DisplayOnPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/cucumber/steps/OpenPageValidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/stepdefs/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/flows/JobsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework/layout/HomePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application-int.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumberFeatures/allmodels.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/layoutSpecs/homePage.gspec" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/layoutSpecs/homePage.gspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/mb/oneweb/java/selenium/framework/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/mb/oneweb/java/selenium/framework/pages/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/mb/oneweb/java/selenium/framework/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/mb/oneweb/java/selenium/framework/steps/BaseSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/mb/oneweb/java/selenium/framework/steps/OpenPageSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T14-38-54_046.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T14-39-42_706.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T15-03-12_157.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T15-07-47_633.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-16-55_702.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-18-24_147.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-19-48_687.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-20-24_336-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-20-24_336.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-21-38_700.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-27-33_748.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-29-04_434.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-32-58_016.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-33-59_247.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-38-49_092.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-39-08_476.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-44-43_417-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-44-43_417.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-45-56_939.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-50-46_934.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-17T16-51-30_077.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-30-03_772.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-33-51_610.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-37-05_674.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-46-33_792.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-54-54_668.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-55-33_007.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T09-56-55_322.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T11-33-28_959.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T11-34-09_134.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T11-40-37_224.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T11-44-55_771.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T12-01-09_399.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T12-04-37_630.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T12-11-15_208.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T12-13-24_902.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T12-15-34_168.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T12-16-02_727.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T12-16-28_877.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-32-42_711.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-34-54_707.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-35-49_038.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-37-18_295.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-41-23_363.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-41-57_285.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-43-17_892.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T14-45-17_558.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-01-39_412.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-10-11_257.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-10-34_514.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-11-07_748.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-33-56_560.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-36-12_250.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-40-36_309.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-41-34_448.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-52-08_640.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-18T17-53-25_282.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T09-23-09_304.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T09-24-09_215.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T09-25-10_635.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T09-26-34_467.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T09-27-13_482.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T09-28-22_079-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T09-28-22_079.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T10-25-10_835.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T10-36-02_652.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T10-38-35_577.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T10-40-03_865.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T10-42-17_268.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T15-05-56_851.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T15-09-41_738.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T15-46-31_261.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T15-54-51_480.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T15-56-44_640.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T15-57-57_201.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T15-58-39_781.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T16-03-36_815.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T16-07-25_456.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T16-07-38_299.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T16-11-21_495.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-19T16-51-12_475.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-20T09-42-55_073.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-20T09-43-34_417.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-20T09-54-40_162.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-20T10-01-02_665.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-11-20T10-01-54_864.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-io.mb.oneweb.java.selenium.framework.cucumber.CucumberTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/io.mb.oneweb.java.selenium.framework.cucumber.CucumberTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/application-int.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumberFeatures/allmodels.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/PropertiesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/_infra/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/_infra/CapabilitiesFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/_infra/LayoutRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/_infra/ViewPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/_infra/ZaleniumRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/api/Jobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/cucumber/CucumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/cucumber/SpringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/cucumber/steps/DisplayOnPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/cucumber/steps/OpenPageValidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/flows/JobsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/mb/oneweb/java/selenium/framework/layout/HomePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/layoutSpecs/homePage.gspec" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/layoutSpecs/homePage.gspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmostestautomationframework.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1TqK0ZPia6RKBg4aGiWeCMm8rng" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1TqK0ZPia6RKBg4aGiWeCMm8rng" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pedroavs/dev/java-selenium-bdd/src/test/java/selenium/cucumber/framework/beans&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/selenium/cucumber/framework/beans" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/io/mb/oneweb/java/selenium/framework" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="selenium.cucumber.framework" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.mb.oneweb.java.selenium.framework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberTest">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selenium.cucumber.framework.Application" />
+      <module name="java-selenium-bdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.cucumber.framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-selenium-bdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.cucumber.framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.cucumber.framework" />
+      <option name="MAIN_CLASS_NAME" value="selenium.cucumber.framework.CucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-selenium-bdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.cucumber.framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.cucumber.framework" />
+      <option name="MAIN_CLASS_NAME" value="selenium.cucumber.framework.CucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobsPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-selenium-bdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.cucumber.framework.flows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.cucumber.framework.flows" />
+      <option name="MAIN_CLASS_NAME" value="selenium.cucumber.framework.flows.JobsPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobsPageTest.openJobsPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-selenium-bdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.cucumber.framework.flows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.cucumber.framework.flows" />
+      <option name="MAIN_CLASS_NAME" value="selenium.cucumber.framework.flows.JobsPageTest" />
+      <option name="METHOD_NAME" value="openJobsPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-selenium-bdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.cucumber.framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.cucumber.framework" />
+      <option name="MAIN_CLASS_NAME" value="selenium.cucumber.framework.PropertiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberTest" />
+        <item itemvalue="JUnit.PropertiesTest" />
+        <item itemvalue="JUnit.CucumberTest (1)" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.JobsPageTest.openJobsPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -33,5 +330,16 @@
       <updated>1574181962051</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

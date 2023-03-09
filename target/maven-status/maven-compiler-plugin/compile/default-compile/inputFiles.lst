@@ -1,5 +1,5 @@
-/Users/vieirped/IntelliJ workspace/vmostestautomationframework/src/main/java/io/mb/oneweb/java/selenium/framework/steps/OpenPageSteps.java
-/Users/vieirped/IntelliJ workspace/vmostestautomationframework/src/main/java/io/mb/oneweb/java/selenium/framework/pages/HomePage.java
-/Users/vieirped/IntelliJ workspace/vmostestautomationframework/src/main/java/io/mb/oneweb/java/selenium/framework/pages/BasePage.java
-/Users/vieirped/IntelliJ workspace/vmostestautomationframework/src/main/java/io/mb/oneweb/java/selenium/framework/steps/BaseSteps.java
-/Users/vieirped/IntelliJ workspace/vmostestautomationframework/src/main/java/io/mb/oneweb/java/selenium/framework/Application.java
+/home/pedroavs/dev/java-selenium-bdd/src/main/java/selenium/cucumber/framework/pages/HomePage.java
+/home/pedroavs/dev/java-selenium-bdd/src/main/java/selenium/cucumber/framework/steps/OpenPageSteps.java
+/home/pedroavs/dev/java-selenium-bdd/src/main/java/selenium/cucumber/framework/steps/BaseSteps.java
+/home/pedroavs/dev/java-selenium-bdd/src/main/java/selenium/cucumber/framework/Application.java
+/home/pedroavs/dev/java-selenium-bdd/src/main/java/selenium/cucumber/framework/pages/BasePage.java

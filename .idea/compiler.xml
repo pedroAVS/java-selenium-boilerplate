@@ -6,12 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DEPRECATED.vmostestautomationframework" />
+        <module name="java-selenium-bdd" />
         <module name="vmos-automation-framework" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DEPRECATED.vmostestautomationframework" options="-parameters" />
+      <module name="java-selenium-bdd" options="-parameters" />
       <module name="vmos-automation-framework" options="-parameters" />
     </option>
   </component>

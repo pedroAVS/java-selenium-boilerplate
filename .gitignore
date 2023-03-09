@@ -1,0 +1,11 @@
+.vscode
+.idea
+/target
+Jenkinsfile
+mvnw
+mvnw.cmd
+.DS_Store
+src/.DS_Store
+src/test/.DS_Store
+src/test/java/.DS_Store
+src/test/resources/layoutSpecs/._homePage.gspec

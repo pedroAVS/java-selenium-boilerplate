@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: io.mb.oneweb.java.selenium.framework.cucumber.CucumberTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.214 s <<< FAILURE! - in io.mb.oneweb.java.selenium.framework.cucumber.CucumberTest
-initializationError(io.mb.oneweb.java.selenium.framework.cucumber.CucumberTest)  Time elapsed: 0.004 s  <<< ERROR!
-java.lang.NoClassDefFoundError: org/springframework/transaction/TransactionDefinition
-Caused by: java.lang.ClassNotFoundException: org.springframework.transaction.TransactionDefinition
-
