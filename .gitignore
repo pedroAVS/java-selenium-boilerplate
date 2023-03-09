@@ -1,7 +1,6 @@
 .vscode
 .idea
 /target
-Jenkinsfile
 mvnw
 mvnw.cmd
 .DS_Store
